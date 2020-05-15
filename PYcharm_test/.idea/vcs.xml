@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="D:/Git/bdxd_dm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../data_science_note" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kaggle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../new_automl_docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../paddlepaddle_cat_12_classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sklearn_tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tensorflow_note" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../xgboost_learn" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,1828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c11f2d5c-a481-4597-969b-f2e830e102e1" name="add pd set option to show max_rows with 10000" comment="add pd set option to show max_rows with 10000">
+      <change beforePath="$PROJECT_DIR$/../kaggle/IEE_CIS_fraud_detection/model/args_split_box_range.json" beforeDir="false" afterPath="$PROJECT_DIR$/../kaggle/IEE_CIS_fraud_detection/model/args_split_box_range.json" afterDir="false" />
+    </list>
+    <list id="a31427ce-94af-454f-80e4-6b019b810fff" name="Default" comment="add train">
+      <change afterPath="$PROJECT_DIR$/../kaggle/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaggle/.idea/kaggle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaggle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaggle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_automl_docker/.idea/automl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_automl_docker/.idea/automl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paddlepaddle_cat_12_classification/.idea/paddlepaddle_cat_12_classification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../paddlepaddle_cat_12_classification/.idea/paddlepaddle_cat_12_classification.iml" afterDir="false" />
+    </list>
+    <list id="78b0619c-43ce-4dff-b451-b0a91275d61c" name="init" comment="init" />
+    <list id="3f50d6fe-8d72-4dc4-abbf-8eeb38e5617a" name="Revert &quot;init&quot;" comment="Revert &quot;init&quot;&#10;&#10;This reverts commit a2cacc2" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1249129039">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="251" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="11" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="6" />
+          <entry key="project.open.time.17" value="10" />
+          <entry key="project.open.time.18" value="14" />
+          <entry key="project.open.time.19" value="10" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="11" />
+          <entry key="project.open.time.21" value="7" />
+          <entry key="project.open.time.22" value="15" />
+          <entry key="project.open.time.23" value="9" />
+          <entry key="project.open.time.24" value="4" />
+          <entry key="project.open.time.25" value="7" />
+          <entry key="project.open.time.26" value="5" />
+          <entry key="project.open.time.27" value="11" />
+          <entry key="project.open.time.28" value="8" />
+          <entry key="project.open.time.29" value="10" />
+          <entry key="project.open.time.3" value="17" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="3" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="39" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="28" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="266" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PNG" value="5" />
+          <entry key="csv" value="100" />
+          <entry key="dockerfile" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="ini" value="2" />
+          <entry key="java" value="1" />
+          <entry key="jpg" value="12" />
+          <entry key="json" value="5" />
+          <entry key="markdown" value="1" />
+          <entry key="md" value="1" />
+          <entry key="model" value="3" />
+          <entry key="npy" value="9" />
+          <entry key="png" value="15" />
+          <entry key="psql" value="1" />
+          <entry key="py" value="1489" />
+          <entry key="pyi" value="5" />
+          <entry key="sql" value="23" />
+          <entry key="submit_file" value="3" />
+          <entry key="txt" value="41" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="52" />
+          <entry key="DBN-SQL" value="22" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="32" />
+          <entry key="JSON" value="8" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="Python" value="1489" />
+          <entry key="PythonStub" value="5" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="8" />
+          <entry key="dummy" value="140" />
+          <entry key="md" value="87" />
+          <entry key="py" value="155195" />
+          <entry key="sql" value="421" />
+          <entry key="txt" value="2069" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="8" />
+          <entry key="DBN-SQL" value="415" />
+          <entry key="Markdown" value="87" />
+          <entry key="PLAIN_TEXT" value="2209" />
+          <entry key="Python" value="155195" />
+          <entry key="Scratch" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="5" />
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.checkout.with.rebase" value="2" />
+          <entry key="git.branch.compare" value="2" />
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.merge" value="4" />
+          <entry key="git.checkout.as.new.branch" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PYcharm_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>risk_abstract</find>
+      <find>Counter</find>
+      <find>insurance_max_demand</find>
+      <find>insurance_demand_detail</find>
+      <find>decimal</find>
+      <find>double precision</find>
+      <find>numeric</find>
+      <find>mpl.</find>
+      <find>insert</find>
+      <find>extend</find>
+      <find>sort</find>
+      <find>for</find>
+      <find>load_csv</find>
+      <find>run</find>
+      <find>np.loadtxt</find>
+      <find>ldatacount</find>
+      <find>arrModels(</find>
+      <find>arrmodels</find>
+      <find>If arrModels</find>
+      <find>If</find>
+      <find>arrModels(lModelCount</find>
+      <find>arrModels</find>
+      <find>arrmodels[lModelCount</find>
+      <find>arrmodels.loc[lModelCount</find>
+      <find>for s in range(lleft, lright)</find>
+      <find>lfound2 &lt; 2</find>
+      <find>lright</find>
+      <find>while</find>
+      <find>print</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../data_science_note" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="D:/Git/bdxd_dm" value="czw_automl_dev_20180814" />
+        <entry key="$PROJECT_DIR$/../new_automl_docker" value="dev" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/insurance_miniprogram/insurance_miniprogram_recommend_adaboost_linux_hb_gridsearch.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/modelscript18.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/insurance_miniprogram/insurance_miniprogram_recommend_adaboost_lp_linux.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/Git/bdxd_dm/insurance_recommend/demand/database_functions.sql" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../试号撞库周期监控.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/insurance_miniprogram/insurance_miniprogram_recommend_stacking_hb_linux.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/ocr_similarity/randomforest/train_v1.0.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/cosine/create_features_v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/cosine/online_v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/cosine/doc/note.txt" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/randomforest/wangzhibin.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/wangzhibin.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/create_features_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/create_features.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/handle_distances_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/handle_distances.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/ClassfierTest/online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/ClassfierTest/adjust_detect_ceils.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/ClassfierTest/table_hv_detect.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/ClassfierTest/class_map.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa1_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/mix_algorithm.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa1_handle_similarity_v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2_create_features.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/test.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa1_create_features_v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa1_online_v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa1_create_features.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/ren.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/onlinecd2_rsa1v1.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/onlinecd2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/sample_module_map.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online_rsa1v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/handle_distances.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2_handle_distances.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/model.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/readme.txt" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online_batch2.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/test.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/mix_algorithm_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/mix_algorithm_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa1_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa2v2_online.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/form_detect.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/table_hv_detect.py" />
+        <option value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_online.py" />
+        <option value="$PROJECT_DIR$/../wordcloud/test_20180706/WordCloud_testscript_20180706.py" />
+        <option value="$PROJECT_DIR$/../wordcloud/分词/jieba_split_word_test.py" />
+        <option value="$PROJECT_DIR$/../wordcloud/test_20180706/word_count_test.txt" />
+        <option value="$PROJECT_DIR$/../wordcloud/wordcount/test.py" />
+        <option value="$PROJECT_DIR$/../wordcloud/wordcount/wordcount.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PYcharm_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_science_note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYcharm_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_science_note" type="462c0819:PsiDirectoryNode" />
+              <item name="xgboost_learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/private_code/private_project/Proj_python/paddlepaddle_cat_12_classification/reader.py" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="POSTGRES-SQL" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/to_dongdong" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyDependenciesConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/data/module_line_old/model_line/C_TAX030001.csv" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ocr_similarity" sdk-home="D:\Program Files\Anaconda3\envs\py36\python.exe">
+        <option name="mySdkHome" value="D:\Program Files\Anaconda3\envs\py36\python.exe" />
+        <option name="myModuleName" value="ocr_similarity" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\private_code\private_project\Proj_python\data_science_note" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\combine_algorithms" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\min_coordinate_distances" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\cosine" />
+      <recent name="D:\Git\bdxd_dm\insurance_recommend\产品设计资料\产品话术及特征对应字典" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\combine_algorithms\combine_alr_online\classifier_estimator" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\combine_algorithms" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\combine_algorithms\combine_alr_online\classifier_estimator\module" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\combine_algorithms\data\20200428" />
+      <recent name="C:\Users\chenzhiwei\Desktop\ocr_similarity\a_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.wordcount">
+    <configuration name="WordCloud_testscript_20180706" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wordcloud/test_20180706" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wordcloud/test_20180706/WordCloud_testscript_20180706.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_features_v2" type="PythonConfigurationType" factoryName="Python">
+      <module name="ocr_similarity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/ocr_similarity/cosine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/ocr_similarity/cosine/create_features_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jieba_split_word_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wordcloud/分词" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wordcloud/分词/jieba_split_word_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="online_v3" type="PythonConfigurationType" factoryName="Python">
+      <module name="ocr_similarity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/ocr_similarity/cosine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/ocr_similarity/cosine/online_v3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wordcloud/wordcount" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wordcloud/wordcount/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ocr_similarity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordcount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wordcloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wordcloud/wordcount" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wordcloud/wordcount/wordcount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.online_v3" />
+      <item itemvalue="Python.create_features_v2" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.WordCloud_testscript_20180706" />
+      <item itemvalue="Python.jieba_split_word_test" />
+      <item itemvalue="Python.wordcount" />
+      <item itemvalue="Python.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wordcount" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.jieba_split_word_test" />
+        <item itemvalue="Python.WordCloud_testscript_20180706" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chenzhiwei\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a31427ce-94af-454f-80e4-6b019b810fff" name="Default" comment="" />
+      <changelist id="78b0619c-43ce-4dff-b451-b0a91275d61c" name="init" comment="" />
+      <changelist id="c11f2d5c-a481-4597-969b-f2e830e102e1" name="add pd set option to show max_rows with 10000" comment="" />
+      <created>1521083511145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521083511145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="产品设计原型、数据报告需求度实现代码">
+      <created>1556161588612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556161588612</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fine-tune">
+      <created>1565835277471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565835277471</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fine-tune">
+      <created>1565836729801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565836729801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fine-tune">
+      <created>1565865168771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565865168771</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fine-tune">
+      <created>1565865221558</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565865221558</updated>
+    </task>
+    <task id="LOCAL-00007" summary="predict">
+      <created>1565920034133</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565920034133</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改one-hot、样本集排序和样本均衡处理">
+      <created>1565939554028</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565939554028</updated>
+    </task>
+    <task id="LOCAL-00009" summary="remove">
+      <created>1565943750186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565943750186</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改one-hot、样本集排序和样本均衡处理">
+      <created>1565946959950</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1565946959950</updated>
+    </task>
+    <task id="LOCAL-00011" summary="no">
+      <created>1565947062470</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565947062470</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init">
+      <created>1565948886057</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1565948886057</updated>
+    </task>
+    <task id="LOCAL-00013" summary="create forward net">
+      <created>1565951535180</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1565951535180</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init">
+      <created>1566211984559</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566211984559</updated>
+    </task>
+    <task id="LOCAL-00015" summary="init">
+      <created>1566282601799</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1566282601799</updated>
+    </task>
+    <task id="LOCAL-00016" summary="upload learn doc">
+      <created>1566282758571</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1566282758571</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change">
+      <created>1566282826816</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1566282826816</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change params">
+      <created>1566288734470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1566288734470</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add axis_y limits">
+      <created>1566295953745</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566295953745</updated>
+    </task>
+    <task id="LOCAL-00020" summary="drop doc">
+      <created>1566352948743</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1566352948743</updated>
+    </task>
+    <task id="LOCAL-00021" summary="upload numpy note">
+      <created>1566384106812</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1566384106828</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add simple plot case">
+      <created>1566458712872</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566458712872</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add plot">
+      <created>1566470090286</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566470090286</updated>
+    </task>
+    <task id="LOCAL-00024" summary="upload vgg16 network">
+      <created>1566558470241</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1566558470241</updated>
+    </task>
+    <task id="LOCAL-00025" summary="init">
+      <created>1566785201685</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1566785201685</updated>
+    </task>
+    <task id="LOCAL-00026" summary="change roc and confusion_matrix arguments">
+      <created>1566814672932</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1566814672932</updated>
+    </task>
+    <task id="LOCAL-00027" summary="init">
+      <created>1566816045266</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1566816045266</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add image dpi">
+      <created>1566876058974</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1566876058974</updated>
+    </task>
+    <task id="LOCAL-00029" summary="read local files">
+      <created>1566876578184</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1566876578184</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add data clean">
+      <created>1567084854988</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1567084854988</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add train">
+      <created>1567159769280</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1567159769280</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add predict">
+      <created>1567427837676</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1567427837676</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix bug">
+      <created>1567428188588</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1567428188588</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add batch predict">
+      <created>1567501440218</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1567501440218</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix bug">
+      <created>1567594484832</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1567594484833</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add">
+      <created>1567672849020</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1567672849020</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add func_have_value()">
+      <created>1567766332657</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1567766332657</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add split feature">
+      <created>1568025379283</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1568025379283</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix bug">
+      <created>1568195355578</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1568195355578</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add split bin">
+      <created>1568290406371</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1568290406371</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add train">
+      <created>1568632644374</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1568632644375</updated>
+    </task>
+    <task id="LOCAL-00042" summary="change demand range and add plan_script">
+      <created>1568703961810</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1568703961810</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add pd set option to show max_rows with 10000">
+      <created>1568975873233</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1568975873233</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add pd set option to show max_rows with 10000">
+      <created>1568975967867</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1568975967867</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add design files">
+      <created>1569481552421</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1569481552421</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add new plan args_table and change demand value_range">
+      <created>1570589013475</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1570589013475</updated>
+    </task>
+    <task id="LOCAL-00047" summary="change '\n' to '&lt;br\&gt;'">
+      <created>1571280077241</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1571280077241</updated>
+    </task>
+    <task id="LOCAL-00048" summary="changing database to mysql">
+      <created>1573807906337</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1573807906337</updated>
+    </task>
+    <task id="LOCAL-00049" summary="none">
+      <created>1589535489276</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1589535489276</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add project: word_frequency_count">
+      <created>1589535792635</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1589535792636</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-modules-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.63646287" visible="true" weight="0.21759747" />
+      <window_info id="Structure" order="1" sideWeight="0.36353713" side_tool="true" weight="0.25822368" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32982087" />
+      <window_info id="DB Browser" order="3" weight="0.32982087" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7167382" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" x="11" y="309" width="1898" height="432" id="Debug" order="5" sideWeight="0.49420443" weight="0.54077256" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.28056768" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49736565" weight="0.36158797" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4946352" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5057956" side_tool="true" weight="0.73819745" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.4860515" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" weight="0.54613733" />
+      <window_info anchor="bottom" id="SVN Repositories" order="12" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.63646287" visible="true" weight="0.21759747" />
+      <window_info id="Structure" order="1" sideWeight="0.36353713" side_tool="true" weight="0.25822368" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32982087" />
+      <window_info id="DB Browser" order="3" weight="0.32982087" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7167382" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" x="11" y="309" width="1898" height="432" id="Debug" order="5" sideWeight="0.49420443" weight="0.47639486" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.28056768" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49736565" weight="0.36158797" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.4946352" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5057956" side_tool="true" weight="0.73819745" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.4860515" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" weight="0.54613733" />
+      <window_info anchor="bottom" id="SVN Repositories" order="12" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload numpy note" />
+    <MESSAGE value="add simple plot case" />
+    <MESSAGE value="add plot" />
+    <MESSAGE value="upload vgg16 network" />
+    <MESSAGE value="change roc and confusion_matrix arguments" />
+    <MESSAGE value="init" />
+    <MESSAGE value="add image dpi" />
+    <MESSAGE value="read local files" />
+    <MESSAGE value="add data clean" />
+    <MESSAGE value="add predict" />
+    <MESSAGE value="add batch predict" />
+    <MESSAGE value="add" />
+    <MESSAGE value="add func_have_value()" />
+    <MESSAGE value="add split feature" />
+    <MESSAGE value="fix bug" />
+    <MESSAGE value="add split bin" />
+    <MESSAGE value="add train" />
+    <MESSAGE value="change demand range and add plan_script" />
+    <MESSAGE value="add pd set option to show max_rows with 10000" />
+    <MESSAGE value="add design files" />
+    <MESSAGE value="add new plan args_table and change demand value_range" />
+    <MESSAGE value="change '\n' to '&lt;br\&gt;'" />
+    <MESSAGE value="changing database to mysql" />
+    <MESSAGE value="none" />
+    <MESSAGE value="add project: word_frequency_count" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project: word_frequency_count" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sysblacktelno.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sysblacktelno.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sysblacktelno.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sysblacktelno.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/试号撞库周期监控.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/试号撞库周期监控.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/试号撞库周期监控.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/modelscript18.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../试号撞库周期监控.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../试号撞库周期监控.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/insurance_miniprogram/insurance_plan.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/毕业论文/图像处理/image.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/毕业论文/图像处理/image.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/data_preprocessing/preprocessing_clean.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/dataset/create_classification_datasets.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/model_evaluation/decision_boundary.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/model_evaluation/decision_boundary.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/model_evaluation/decision_boundary.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/sklearn_plot_decision_boundaries.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/sklearn_plot_decision_boundaries.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/sklearn_plot_decision_boundaries.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/分类器_决策边界_demo.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/分类器_决策边界_demo.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../sklearn_tutorials/tutorials/分类器_决策边界_demo.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../operate_pdf_files/operate_pdf_files.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../operate_pdf_files/pdf_to_image.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../operate_pdf_files/pdf_to_image.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/insurance_miniprogram/correlation.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/customized_metric_and_objective.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/boost_from_prediction.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/boost_from_prediction.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/predict_first_tree.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/evals_result_with_xgboost.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/xgboost_learn/sklearn_wrapper_examples.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../kaggle/code/digit_train_model.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../kaggle/code/digit_train_model.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../kaggle/code/digit_train_model.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/run/dataclean.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/run/modeltrain.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/run/result_compare.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Web_Crawler/code/house_price_xian.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../auto_meachinelearning/run/predataclean.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../kaggle/random_split_dataset.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Git/bdxd_dm/insurance_recommend/demand/call_test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../new_automl_docker/automlPy/modelTrain.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/randomforest/create_labels.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/randomforest/train_v1.0.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/create_features.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/online.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/handle_distances.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/min_coordinate_distances/create_features.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/handle_distances.py</url>
+          <line>261</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_sourcecode.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py</url>
+          <line>687</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py</url>
+          <line>680</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py</url>
+          <line>668</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_.py</url>
+          <line>619</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_online.py</url>
+          <line>716</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online_batch2.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/wordcloud/wordcount/wordcount.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../data_science_note/wordcloud/wordcount/test.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>with open(os.path.join(os.getcwd()+'flag_map.txt'), 'w+') as outf:
+	for i in flag.items():
+		outf.write(i)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>with open(os.path.join(os.getcwd()+'flag_map.txt'), 'w+') as outf:
+	for i in flag.items():
+		outf.write(i)
+	print('run finish')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>with open(os.path.join(os.getcwd()+'flag_map.txt'), 'w+') as outf:
+	for i in flag:
+		outf.write(i)
+	print('run finish')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>with open(os.path.join(os.getcwd()+'flag_map.txt'), 'w+') as outf:
+	outf.write(flag)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df[df[['l_type']] == sample_tag[0]]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sample_tag[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sample_tag[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df[df[['l_type']] = sample_tag[0]]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df(df[['l_type']] == sample_tag[0])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df[['l_type']] == sample_tag[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>tmp_arr[2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row_dict</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eval(returnstr(xx.rstrip(', '), sep=','))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eval(&quot;np.meshgrid(returnstr(xx_para.rstrip(', '), sep=','))&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eval(np.meshgrid(returnstr(xx_para.rstrip(', '), sep=',')))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eval({TypeError}eval expected at least 1 arguments, got 0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>eval()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx_para.rstrip(', ')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>X</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>print(k)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(v)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.DataFrame(wc_dict.items())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pd.DataFrame(wc_dict)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wc_dict.items()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(a)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(wc_dict)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(a.keys())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(wc_dict.keys())</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa2_create_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa2_handle_distances.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa2_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online_batch2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online - 副本/classifier_estimator/form_detect.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/table_hv_detect.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/adjust_detect_ceils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa2v2_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1408">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/test.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="144">
+          <caret line="59" column="86" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/mix_algorithm_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa1_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa1_handle_similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/rsa1_create_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="174" column="15" lean-forward="true" selection-start-line="174" selection-start-column="15" selection-end-line="174" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/form_detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/combine_alr_online/classifier_estimator/table_hv_detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/rsa2v2_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="516" column="30" selection-start-line="516" selection-start-column="30" selection-end-line="516" selection-end-column="30" />
+          <folding>
+            <element signature="e#74#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ocr_similarity/combine_algorithms/online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="39" selection-start-line="39" selection-end-line="40" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1494736245/wordcloud/query_integral_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#171#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/wordcloud/wordcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#135#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/matplotlib/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/495991086/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1259">
+          <caret line="339" column="4" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/test_20180706/词云测试1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Program Files/Anaconda3/envs/py36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="168" column="4" selection-start-line="168" selection-start-column="4" selection-end-line="168" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/test_20180706/NINETEEN+EIGHTY-FOUR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/test_20180706/WordCloud_testscript_20180706.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/test_20180706/word_count_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Anaconda3/envs/py36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.spyproject/encoding.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.spyproject/vcs.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/wordcount/wordcount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="84" column="34" lean-forward="true" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+          <folding>
+            <element signature="e#49#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/分词/jieba_split_word_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/分词/jieba_default_dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.idea/wordcloud.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/.idea/dbnavigator.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/wordcloud/wordcount/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/.idea/dbnavigator.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/.idea/xgboost_learn.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/cross_validation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/predict_first_tree.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/predict_leaf_indices.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/sklearn_evals_result.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data_science_note/xgboost_learn/boost_from_prediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

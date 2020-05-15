@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYcharm_test.iml" filepath="$PROJECT_DIR$/.idea/PYcharm_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/.idea/TAIPING_insurance_underwriting_model.iml" filepath="$PROJECT_DIR$/../TAIPING_insurance_underwriting_model/.idea/TAIPING_insurance_underwriting_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web_Crawler/.idea/Web_Crawler.iml" filepath="$PROJECT_DIR$/../Web_Crawler/.idea/Web_Crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auto_meachinelearning/.idea/auto_meachinelearning.iml" filepath="$PROJECT_DIR$/../auto_meachinelearning/.idea/auto_meachinelearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../new_automl_docker/.idea/automl.iml" filepath="$PROJECT_DIR$/../new_automl_docker/.idea/automl.iml" />
+      <module fileurl="file://D:/Git/bdxd_dm/.idea/bdxd_dm.iml" filepath="D:/Git/bdxd_dm/.idea/bdxd_dm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_science_note/.idea/data_science_note.iml" filepath="$PROJECT_DIR$/../data_science_note/.idea/data_science_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kaggle/.idea/kaggle.iml" filepath="$PROJECT_DIR$/../kaggle/.idea/kaggle.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/ocr_similarity/.idea/ocr_similarity.iml" filepath="$USER_HOME$/Desktop/ocr_similarity/.idea/ocr_similarity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../operate_pdf_files/.idea/operate_pdf_files.iml" filepath="$PROJECT_DIR$/../operate_pdf_files/.idea/operate_pdf_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paddlepaddle_cat_12_classification/.idea/paddlepaddle_cat_12_classification.iml" filepath="$PROJECT_DIR$/../paddlepaddle_cat_12_classification/.idea/paddlepaddle_cat_12_classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sklearn_tutorials/.idea/sklearn_tutorials.iml" filepath="$PROJECT_DIR$/../sklearn_tutorials/.idea/sklearn_tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow_note/.idea/tensorflow_note.iml" filepath="$PROJECT_DIR$/../tensorflow_note/.idea/tensorflow_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wordcloud/.idea/wordcloud.iml" filepath="$PROJECT_DIR$/../wordcloud/.idea/wordcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xgboost_learn/.idea/xgboost_learn.iml" filepath="$PROJECT_DIR$/../xgboost_learn/.idea/xgboost_learn.iml" />
+    </modules>
+  </component>
+</project>
