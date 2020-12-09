@@ -2,11 +2,16 @@
 """
 词频统计/mapreduce
 
+python version: 3.6.*
+special attribute：create a generator to count words
 """
 
 import os
 import re
 import time
+
+import numpy as np
+
 
 # load_file
 def load_file_v1(file_path):
@@ -39,13 +44,14 @@ def word_map(file_path):
 				word = word.strip()
 				# 转为小写
 				word = word.lower()
+				# 返回word中字符的部分[a-zA-Z0-9], re.split返回一个list数据结构
 				words = re.split(r'\W', word)
 				# if len(word) > 2:
 				# 	raise ValueError('please check!')
 				# else:
 				# 	word = word[0]
 				for word in words:
-					if len(word.strip())<1:
+					if len(word.strip()) < 1:
 						continue
 					yield word, 1
 
@@ -65,7 +71,7 @@ def word_map(file_path):
 				# else:
 				# 	word = word[0]
 				for word in words:
-					if len(word.strip())<1:
+					if len(word.strip()) < 1:
 						continue
 					cur_word_map.append((word, 1))
 
@@ -96,6 +102,36 @@ def wc_run(file_path):
 	return result_dict
 
 
+def create_ndArray(data: dict) -> np.ndarray:
+	"""
+	从dict中利用list(dict.keys()) 和 list(dict.values()) 分别生成的结果list的索引是一一对应的
+	基于此可以生成一个np.ndarray数据结构，用于后续计算，诸如信息熵的计算
+
+	--验证前述索引是否一致的测试代码
+	for idx, key in enumerate(list(a.keys())[:10]):
+		print(key)
+		print(a.get(key))
+		print(list(a.values())[idx])
+		print('-'*10)
+	"""
+	values = np.array(list(data.values()))
+	keys = np.array(list(data.keys()))
+	key_and_value_arr = np.stack((values, keys), axis=0)
+
+	return key_and_value_arr
+
+
+def percent(x: np.ndarray) -> np.ndarray:
+	if isinstance(x.dtype, np.float) is False:
+		x = x.astype(np.float)
+
+	return x/np.sum(x)
+
+
+def main():
+	pass
+
+
 if __name__ == '__main__':
 	start_time = time.time()
 	target_file = '../test_20180706/NINETEEN+EIGHTY-FOUR.txt'
@@ -103,8 +139,13 @@ if __name__ == '__main__':
 
 	for k_v in a.items():
 		print('\n', k_v)
-		# time.sleep(0.2)
+	arr = create_ndArray(a)
+
+	# 计算每个key的频数的占比
+	print(percent(arr[0]))
+
+	# time.sleep(0.2)
 	end_time = time.time()
-	print(end_time-start_time)
+	print(end_time - start_time)
 
 	print(1)
